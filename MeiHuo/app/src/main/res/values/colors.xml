@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff444444</color>
+    <color name="red">#ffff0000</color>
+    <color name="green">#ff00ff00</color>
+    <color name="blue">#ff559cdb</color>
+    <color name="common_grey">#ff898989</color>
+    <color name="common_black_word">#ff333333</color>
+    <color name="common_grey_word">#ff999999</color>
+    <color name="common_red">#ffec3e40</color>
+    <color name="common_blue">#00B2EE</color>
+    <color name="common_blue_word">#ff159b86</color>
+    <color name="common_grey_background">#fffbf4ec</color>
+    <color name="common_border">#ff22c9af</color>
+    <color name="common_white">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="divider_color">#ffdddddd</color>
+    <color name="warning_background">#ffffffcc</color>
+    <color name="disable_color">#ffcccccc</color>
+    <item type="color" name="border_color">@color/divider_color</item>
+    <item type="color" name="white_text_normal">@color/common_white</item>
+    <item type="color" name="white_text_pressed">@color/disable_color</item>
+    <color name="white_text_disable">#ffaaaaaa</color>
+    <item type="color" name="black_text_normal">@color/common_black_word</item>
+    <color name="black_text_pressed">#ff444444</color>
+    <color name="black_text_disable">#ff555555</color>
+    <color name="balck_text_subtitle">#ff777777</color>
+    <item type="color" name="blue_normal">@color/common_border</item>
+    <item type="color" name="blue_pressed">@color/common_blue_word</item>
+    <item type="color" name="white_normal">@color/common_white</item>
+    <color name="white_pressed">#ffeeeeee</color>
+    <item type="color" name="red_normal">@color/common_red</item>
+    <color name="red_pressed">#fffe6969</color>
+    <color name="header_background">#ffdedede</color>
+    <color name="lv_color">#e35145</color>
+    <color name="fengexian">#ededed</color>
+    <color name="huise_icon">#f7f7f7</color>
+    <color name="title_icon">#55c99c</color>
+    <color name="huise_text">#ff999999</color>
+    <!--浅粉红色-->
+    <color name="red_light">#FE9ABE</color>
+    <color name="gray">#999999</color>
+    <color name="text">#646464</color>
+    <color name="yellow">#FFC497</color>
+    <color name="gray_light">#f0f0f0</color>
+    <color name="gray_light_low">#f1f1f1</color>
+    <color name="gray_line">#dddddd</color>
+    <color name="red_text">#ff5d5d</color>
+    <color name="red_black">#C53535</color>
+    <color name="blue_sky_2"> #3294D5</color>
+    <color name="blue_sky">#1B9AF7</color>
+    <color name="blue_cyanoz">#9162CA</color>
+    <color name="pink">#ED145B</color>
+    <color name="word_gray">#747474</color>
+    <color name="line_cut_apart">#E0E0E0</color>
+    <color name="word_orange">#EE6033</color>
+    <color name="word_red_light">#C63535</color>
+    <color name="word_red">#C43E33</color>
+    <color name="transparent_light">#33000000</color>
+    <color name="random1">#7D9CAE</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="backgroud">#ffffffff</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="grad">#FFFBE4</color>
+    <!--石蓝色-->
+    <color name="blue_slate">#6C71B3</color>
+    <color name="dark_blue">#3F51B5</color>
+    <color name="green_light">#1FB897</color>
+    <color name="chocolate">#F06E1A</color>
+
+    <!-- 雪白色 -->
+    <color name="floralwhite">#FFFAF0</color>
+    <!-- 暗灰色 -->
+    <color name="dimgrey">#696969</color>
+    <!-- 灰色 -->
+    <color name="grey">#9e9e9e</color>
+
+    <color name="umeng_socialize_comments_bg">#F4F4F4</color>
+    <color name="umeng_socialize_color_group">#2c3035</color>
+    <color name="umeng_socialize_list_item_textcolor">#333333</color>
+    <color name="umeng_socialize_list_item_bgcolor">#FFFFFF</color>
+    <color name="umeng_socialize_divider">#E6E6E6</color>
+    <color name="umeng_socialize_text_time">#999999</color>
+    <color name="umeng_socialize_text_title">#464f61</color>
+    <color name="umeng_socialize_text_friends_list">#959696</color>
+    <color name="umeng_socialize_text_share_content">#666666</color>
+    <color name="umeng_socialize_ucenter_bg">#EEEEEE</color>
+    <color name="umeng_socialize_text_ucenter">#595959</color>
+    <color name="umeng_socialize_edit_bg">#C4C4C4</color>
+    <color name="umeng_socialize_grid_divider_line">#F8F8F8</color>
+    <color name="result_view">#b0000000</color>
+    <color name="abg">#E9E7E5</color>
+    <color name="red_dark">#990099</color>
+    <color name="medium_purple">#7683C9</color>
+    <color name="light_purple">#557683C9</color>
+    <color name="dark_purple">#1b32af</color>
+</resources>
